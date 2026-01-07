@@ -1,2 +1,2 @@
 # LEGC
-LEGC: Integrating Linguistic-Enhanced Embedding Module with MIP/SPV Gating for Contrastive Metaphor Detection
+LEGC: Integrating Linguistic-Enhanced Embeddings with Dual-Path Semantic Gating for Contrastive Metaphor Detection
