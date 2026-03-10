@@ -1,2 +1,2 @@
-# LEGC
-LEGC: Integrating Linguistic-Enhanced Embeddings with Dual-Path Semantic Gating for Contrastive Metaphor Detection
+# LEMC
+LEMC: Linguistic-Enhanced Embedding and Parallel Semantic Modulation for Contrastive Metaphor Detection
